@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+mne>=1.5
+matplotlib>=3.7
+# optional:
+# xgboost>=1.7      # run_pipeline.py --models xgb
+# tensorflow>=2.13  # run_pipeline.py --models nn (original MLP)

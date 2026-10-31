@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and cite the dataset (Wang et al., 2017)."
+title: "SSVEP Detection for Brain-Computer Interfaces: a comparison of spectral features and classifiers"
+type: software
+authors:
+  - family-names: Mutlu
+    given-names: Eray
+  - family-names: Rumor
+    given-names: Federica
+date-released: 2026-10-30
+references:
+  - type: article
+    title: "A Benchmark Dataset for SSVEP-Based Brain-Computer Interfaces"
+    authors:
+      - family-names: Wang
+        given-names: Yijun
+      - family-names: Chen
+        given-names: Xiaogang
+      - family-names: Gao
+        given-names: Xiaorong
+      - family-names: Gao
+        given-names: Shangkai
+    journal: "IEEE Transactions on Neural Systems and Rehabilitation Engineering"
+    volume: 25
+    issue: 10
+    start: 1746
+    end: 1752
+    year: 2017
+    doi: 10.1109/TNSRE.2016.2627556
